@@ -1,0 +1,3 @@
+- [Clipy](https://github.com/Clipy/Clipy)
+- [Shiftlt](https://github.com/fikovnik/ShiftIt)
+- [Hammerspoon](https://github.com/Hammerspoon/hammerspoon)
